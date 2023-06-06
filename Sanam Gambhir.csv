@@ -1,0 +1,21 @@
+artist,album,track_name,track_id,danceability,energy,key,loudness,mode,speechiness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,popularity,is_local
+Pujya Rajan Jee,Jai Shri Ram,Humaare Saath Shri Raghunath,127hrjrEX1NskpBsdIrphW,0.502,0.849,3,-7.055,1,0.0381,1.66e-05,0.354,0.866,138.989,272695,4,0.0,False
+Sachet Tandon,Ram Siya Ram,Ram Siya Ram,0lKILDCwOjyR54xYhBazuJ,0.39,0.555,1,-9.177,0,0.0331,0.0,0.0929,0.48,158.167,265265,4,71.0,False
+Jubin Nautiyal,Mere Ghar Ram Aaye Hain,Mere Ghar Ram Aaye Hain,4afA2YQlZfYzJbfnNoNknK,0.639,0.951,0,-3.108,1,0.0371,3.67e-06,0.126,0.807,107.964,234150,4,71.0,False
+Trisha Parui,Sublime Bhajans Vol. 7 (Original),Madhurashtakam,18n4OsNX37mGGZ2OJcDiTf,0.602,0.74,0,-4.381,1,0.0348,0.0,0.259,0.81,89.982,250260,4,54.0,False
+Jubin Nautiyal,Shri Krishna Govind Hare Murari,Shri Krishna Govind Hare Murari,58SIEtTjWErr0yEXVBKxvd,0.59,0.632,7,-7.996,1,0.0376,0.0,0.169,0.345,110.0,153003,4,74.0,False
+Jubin Nautiyal,Hare Krishna Hare Rama,Hare Krishna Hare Rama,4ECasrEmA3NeiHQpinwZ2A,0.546,0.639,7,-7.94,1,0.0291,0.0,0.29,0.414,100.026,309143,4,66.0,False
+Jubin Nautiyal,Govind Bolo,Govind Bolo,5Yk5pn38SvDWN0cIv3lLNz,0.495,0.484,2,-10.923,1,0.0391,0.0,0.104,0.592,126.632,150139,5,58.0,False
+Various Artists,,,6HAM3aUeIVp3aRtVD3RBWw,0.618,0.67,4,-7.518,1,0.0317,0.000109,0.249,0.445,91.98,274221,4,0.0,False
+Hariharan,Shree Hanuman Chalisa (Hanuman Ashtak),Shree Hanuman Chalisa,6H7fLdt0AeWpuxUKXuXWrx,0.589,0.885,4,-3.4,1,0.035,0.0,0.132,0.831,91.01,586076,4,73.0,False
+Various Artists,Hey Gobind Hey Gopal,He Ram He Ram,2lyh5kOAC98ZJikzYSZN8n,0.601,0.276,0,-17.906,1,0.0264,0.0,0.191,0.697,91.56,253000,4,56.0,False
+Ismail Darbar,Kisna (Original Motion Picture Soundtrack),Woh Kisna Hai,5Se9PXWc57LRT0zthjI5cG,0.649,0.525,10,-11.94,1,0.0665,1.2e-05,0.17,0.494,101.987,357187,4,61.0,False
+Amitabh Bachchan,Sukhkarta Dukhharta,Sukhkarta Dukhharta,6DtPCH3Bnv88ef0lLJqZsB,0.638,0.698,1,-5.142,1,0.0299,0.0,0.29,0.778,104.956,128993,3,57.0,False
+Nitin Mukesh,Shree Hanuman Chalisa,Shree Ram Stuti,7FrC6ARNbQJcCFmYM2uRJd,0.744,0.455,7,-4.194,0,0.038,0.0,0.316,0.514,101.144,155124,4,42.0,False
+Lakhbir Singh Lakkha,Ram Na Milenge Hanuman Ke Bina,Ram Na Milenge Hanuman Ke Bina,1xOdc792WrnSMJ7ZxTdxQp,0.754,0.732,7,-6.675,0,0.0413,0.0,0.288,0.945,144.964,398480,4,56.0,False
+Ravindra Jain,Ravindra Jain Hits Bhajan,Mangal Bhavan Amangal Haari Sitaram Charit,7AvDmVuFAd4V6csXH4dVyV,0.46,0.217,1,-24.157,0,0.0387,0.0,0.33,0.845,52.201,72024,3,46.0,False
+Narci,Ram Setu,Ram Darshan,14zTx6i2o5bB5Re8pS2BMd,0.636,0.749,3,-8.297,0,0.117,3.4e-05,0.0813,0.809,80.047,309019,4,65.0,False
+Bihari Ji,Radhe Radhe Barsane Wali Radhe,Radhe Radhe Barsane Wali Radhe,5D5WfnGTGbWUwcLzLVTv6Z,0.717,0.624,3,-12.7,0,0.0467,0.0,0.11,0.82,105.993,2693743,4,58.0,False
+Ravindra Jain,Bolo Siya Ram Ki Jai,Sitaram Charit Ati Paavan,6StN64DnVZEhluLJM8nu88,0.359,0.255,3,-21.894,0,0.0332,9.3e-06,0.301,0.824,156.412,64296,4,50.0,False
+Mohit Lalwani,Tum Prem Ho Reprise,Tum Prem Ho Reprise,598Osn5UUNlFgWxBHXLe3p,0.698,0.449,4,-11.847,1,0.028,3.84e-05,0.0737,0.287,109.973,288545,1,0.0,False
+Mohit Lalwani,Samay Samjhayega,Samay Samjhayega,3MhGqG49zBXNTy55c4ZOOz,0.451,0.157,2,-20.268,1,0.0332,0.0001,0.387,0.15,85.943,102483,1,0.0,False
